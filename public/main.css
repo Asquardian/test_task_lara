@@ -1,0 +1,12 @@
+main{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-form{
+    max-width: 600px;
+    width: 100%;
+    padding: 50px;
+}
